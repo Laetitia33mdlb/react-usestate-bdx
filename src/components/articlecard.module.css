@@ -1,0 +1,45 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px lightgray;
+    margin-top : 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.image {
+    width: 15em;
+    height: 15em;
+    object-fit: cover;
+}
+
+.select {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+    height: 2em;
+    border: solid 1px lightgray;
+}
+
+.button-false {
+    margin-top: 1em;
+    background-color: green;
+}
+
+.button-true {
+    margin-top: 1em;
+    background-color: red;
+}
+
+.counterButtons {
+    display : flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.counter {
+    align-items: center;
+    margin : auto 1em;
+    vertical-align: baseline;
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Article 1",
+    "description": "Description of Article 1",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": true,
+    "note": 2
+  },
+  {
+    "id": 2,
+    "name": "Article 2",
+    "description": "Description of Article 2",
+    "image":"https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 4
+  },
+  {
+    "id": 3,
+    "name": "Article 3",
+    "description": "Description of Article 3",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 3
+  },
+  {
+    "id": 4,
+    "name": "Article 4",
+    "description": "Description of Article 4",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 4
+  },
+  {
+    "id": 5,
+    "name": "Article 5",
+    "description": "Description of Article 5",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 5
+  },
+  {
+    "id": 6,
+    "name": "Article 6",
+    "description": "Description of Article 6",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 2
+  },
+  {
+    "name": "Article 7",
+    "description": "Description of Article 7",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": true,
+    "note": 1
+  },
+  {
+    "id": 8,
+    "name": "Article 8",
+    "description": "Description of Article 8",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 2
+  },
+  {
+    "id": 9,
+    "name": "Article 9",
+    "description": "Description of Article 9",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": true,
+    "note": 5
+  },
+  {
+    "id": 10,
+    "name": "Article 10",
+    "description": "Description of Article 10",
+    "image": "https://picsum.photos/200/300",
+    "isFavorite": false,
+    "note": 4
+  }
+]
